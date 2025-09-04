@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ AI Content Writer SaaS  
+# AI Content Writer SaaS  
 ### Generate Engaging Posts for LinkedIn, Twitter, and More
 
 </div>
